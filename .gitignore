@@ -3,7 +3,7 @@ __pycache__/
 venv/
 node_modules/
 __pycache__/
-
+frontend/.env
 *.pkl
 
 backend/model/movies.pkl
