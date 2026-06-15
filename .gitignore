@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+venv/
+node_modules/
+__pycache__/
+
+*.pkl
+
+backend/model/movies.pkl
+backend/model/similarity.pkl
